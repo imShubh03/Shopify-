@@ -4,6 +4,11 @@
 
 This guide provides a step-by-step implementation plan for building the **CausalFunnel Shopify App**, which injects a survey form into the cart page and provides an analytics dashboard.
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/f1fad84a-25b2-419a-abb5-66100a3b484d)
+![image](https://github.com/user-attachments/assets/7d69e95b-dd54-46c3-8de1-ac6aecc2b265)
+![image](https://github.com/user-attachments/assets/141f3269-6bc4-4dee-9172-7d67d50def4e)
+
 ## Table of Contents
 
 - [Setup and Onboarding](#setup-and-onboarding)
